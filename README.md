@@ -34,7 +34,7 @@ $ amplify push
 7. Modify the front end to get the look and feel you want.
 `````
 $ cp base/App-01-auth.js src/App.js
-$ cp base/index.html src/index.html 
+$ cp base/index.html public/index.html  
 $ cp base/App.css src/App.css
 `````
 
