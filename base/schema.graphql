@@ -1,0 +1,7 @@
+type Note @model{
+	id: ID!
+	note: String!
+	owner: String!
+	meaning: String
+	spanish: String
+}
